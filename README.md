@@ -1,4 +1,4 @@
-# Final Project for CS122 at SJSU
+# FoodApp Recipe Website
 
 ## Authors
 - **Sam Hubler** (Author #1) — Data Collection & Storage
